@@ -1,0 +1,9 @@
+1. install necessary libraries
+  1. pandas 
+  2. NLTK
+  3. requests
+  4. BS4
+
+2. type in terminal or command prompt python text_analysis.py
+
+3. Final Output will be in myoutput.csv file created after execution of the code
